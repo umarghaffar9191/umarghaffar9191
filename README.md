@@ -4,7 +4,7 @@
 
 I'm a passionate Python developer specializing in backend development with the Django framework. I love creating scalable web applications and APIs, optimizing databases, and integrating third-party services.
 
-<img align="right" alt="coding" width="600" src="https://camo.githubusercontent.com/803e347031cda828121b89cff32a385117345fb0349faff2f099fa84b6e4dc35/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/803e347031cda828121b89cff32a385117345fb0349faff2f099fa84b6e4dc35/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633">
 ---
 
 ### 🛠️ Technologies & Tools:
@@ -19,6 +19,10 @@ I'm a passionate Python developer specializing in backend development with the D
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+---
+### ⚡ Fun Fact:
+Did you know? The Django web framework was named after Django Reinhardt, a jazz guitarist. I might not play the guitar, but I do strum the keys to create some 'jazzy' code! 🎸🐍
+--- 
 ### 📈 What I Do:
 - **Design and implement scalable web applications and APIs using Django**
 - **Ensure robust and secure backend architectures**
@@ -43,11 +47,6 @@ I'm a passionate Python developer specializing in backend development with the D
 
 ---
 
-### ⚡ Fun Fact:
-Did you know? The Django web framework was named after Django Reinhardt, a jazz guitarist. I might not play the guitar, but I do strum the keys to create some 'jazzy' code! 🎸🐍
-
----
-
 ### 🚀 GitHub Stats:
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUmar.MuhammadUmar)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MuhammadUmar&theme=onedark)
@@ -55,6 +54,3 @@ Did you know? The Django web framework was named after Django Reinhardt, a jazz 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmar&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmar&theme=radical)
 
-![GIF](https://github.com/WickTech/WickTech/blob/main/giphy.gif)
-
-![Footer](https://github.com/MuhammadUmar/MuhammadUmar/blob/main/assets/footer-image.png)
