@@ -1,4 +1,4 @@
-![Header](https://github.com/MuhammadUmar/MuhammadUmar/blob/main/assets/image.png)
+![Header](https://github.com/umarghaffar9191/umarghaffar9191/blob/main/Black%20and%20Purple%20Digital%20Glitch%20Tech%20YouTube%20Banner.png)
 
 # Hi there, I'm Muhammad Umar! 👋
 
